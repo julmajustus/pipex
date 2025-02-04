@@ -1,6 +1,6 @@
 # pipex - Command Piping in C
 
-pipex is a C project that replicates shell command piping. It demonstrates how to create child processes, manage file descriptors, and set up pipelines to emulate shell behavior. The mandatory part executes commands like:
+pipex is a C project that replicates shell command piping. It demonstrates how to create child processes, manage file descriptors, and set up pipelines to emulate shell behavior.
 
 ---
 
